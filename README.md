@@ -30,6 +30,10 @@ The Dames Point - Repository #6
 Is what we would like to build first.
 
 All project repositories are currently only accessible by collaborators. 
+If you find this project interesting and would like to become a collaborator,
+contributor, just want to comment, ask questions or provide feedback you can contact us @ support@strangedollar.com 
+
+
 
 Thanks,
 
